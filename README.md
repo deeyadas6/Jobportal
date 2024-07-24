@@ -2,7 +2,7 @@ JOB PORTAL APPLICATION
 This project is a job portal application built using the MERN stack (MongoDB, Express, ReactJS, NodeJS). The application allows users to register, create profiles, browse job listings, and apply for jobs. Employers can post job vacancies and manage applications.
 
 
-Features
+Features:
 	User registration and authentication
 	Profile creation and management
 	Job listing and browsing
@@ -11,7 +11,7 @@ Features
 	Responsive design for various devices
 
  
-Technologies Used
+Technologies Used:
 	Frontend: ReactJS
 	Backend: NodeJS, Express
 	Database: MongoDB
